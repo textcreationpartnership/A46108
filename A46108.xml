@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas by an act made in the last session of the late Parliament held in this kingdom intituled, an Act for the Better Ordering the Selling of Wines and Aquivitæ ... by the Lord Lieutenant and Council, Ormonde.</title>
+            <author>Ireland. Lord Lieutenant (1661-1669 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46108</idno>
+            <idno type="STC">Wing I724</idno>
+            <idno type="STC">ESTC R36827</idno>
+            <idno type="EEBO-CITATION">16140413</idno>
+            <idno type="OCLC">ocm 16140413</idno>
+            <idno type="VID">104811</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46108)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104811)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1595:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas by an act made in the last session of the late Parliament held in this kingdom intituled, an Act for the Better Ordering the Selling of Wines and Aquivitæ ... by the Lord Lieutenant and Council, Ormonde.</title>
+                  <author>Ireland. Lord Lieutenant (1661-1669 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+               </titleStmt>
+               <extent>[2] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Crook ... and are to be sold by Samuel Dancer ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first 3 lines of text.</note>
+                  <note>Statement of responsibility transposed from head of title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at Kilkenny the 17th day of September, 1666"--leaf [2]</note>
+                  <note>Broadside in [2] leaves.</note>
+                  <note>Reproduction of original in the Society of Antiquaries Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liquor laws --  Ireland.</term>
+               <term>Ireland --  History --  1649-1775.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104811:1"/>
+            <!-- PDF PAGE 33 -->
+            <head>BY THE LORD LIEUTENANT AND COUNCIL:</head>
+            <opener>
+               <signed>ORMONDE,</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS by an Act made in the laſt Seſſion of the late Parliament held in this Kingdom intituled, <hi>An Act for the better ordering the ſelling of Wines and Aquavitae, to<g ref="char:EOLhyphen"/>gether with all ſorts of Strongwaters by Retaile,</hi> It is E<g ref="char:EOLhyphen"/>nacted, That no perſon or perſons whatſoever from and af<g ref="char:EOLhyphen"/>ter the Twenty ninth day of <hi>September</hi> in the year of our Lord One thouſand ſix hundred ſixty ſix, unleſs he or they be licenſed, and enabled in manner and form as in the ſaid Act is preſcribed and appoynted, ſhall ſell or utter by Retaile (That is to ſay) by the pint, quart, pottle, or gallon, or by any other greater or leſſer retaile meaſure, any kind of wine, or Wines, Aquavite, Vſquebagh, Brandy, Balkon, or other diſtilled Strongwaters whatſoever to be drunck or ſpent within his or their Manſion Houſe, or Houſes, or other place in his or their Tenure or Occupation, or without ſuch Manſion Houſe or Houſes, or ſuch other place in his or their Tenure or Occupation, by any Colour, Craft or means whatſoever, upon pain to forfeit for every ſuch offence the ſum of five pounds, the one Moyetie of every ſuch penaltie to be to our Soveraign Lord the King, His Heirs and Succeſſors, the other Moyetie to him or them that will ſue for the ſame, by Action of Debt, Bill, plaint or Information in any of the Kings Courts of Record, in which Action or Suite, No Eſſoyn, wager of Law or protection ſhall be allowed; And it is further Enacted by the ſaid Act that Commiſſions ſhall from time to time be awarded under His Majeſties Great Seal into every Countie in this Kingdom to a convenient number of Commiſſioners to be nominated by the Lord Lieutenant or other cheif Governor or Governors of this King<g ref="char:EOLhyphen"/>dom and Council for the time being, which ſaid Commiſſioners or any two or more of them ſhall Licence according to the ſaid Act ſuch perſons as they ſhall think fit to ſell and utter by Retane all or any kind of Wine or Wines or Strongwaters or any other the Liquors diſtilled or ſtrrong<g ref="char:EOLhyphen"/>waters whatſoever aforeſaid to be Drunck and ſpent as well within the Houſe or Houſes, or o<g ref="char:EOLhyphen"/>other
+<pb facs="tcp:104811:2"/>
+               <!-- PDF PAGE 34 -->
+place in the Tenure or Occupation of the partie ſo Licenſed as aforeſaid; as without in any Citie, Town, or other place within the Kingdom of <hi>Ireland,</hi> for any Term not exceeding three years from the Twenty ninth of <hi>September</hi> next preceeding the makeing of ſuch Licence, and no longer, and that the ſaid Commiſſioners by their Commiſſions ſhall be eſpecially au<g ref="char:EOLhyphen"/>thorized to make the ſaid Licences, and that every ſuch Retailer of Wine or Wines as afore<g ref="char:EOLhyphen"/>ſaid, ſhall pay to His Majeſties uſe, ſuch ſum as ſhall be agreed to be paid for ſuch Licence, ſo as none do pay leſs than the ſum of Forty ſhillings yearly, and that none be compelled in the Citie and County of the Citie of <hi>Dublin</hi> to pay more than Forty pounds yearly, and in all o<g ref="char:EOLhyphen"/>ther Cities, Towns Corporate, and other places as well within as without Franchiſes and Liberties in this Kingdom more than Twenty pounds yearly, and that every ſuch Retailer of Aquavite Vſquebagh or Strongwaters, Brandy, Balkon or any other Diſtilled Strongwaters whatſoever as aforeſaid ſhall pay to His Majeſties uſe ſuch ſum as ſhall be agreed to be paid for ſuch Licence, ſo as none do pay leſs than the ſum of Ten ſhillings yearly, and none ſhall be compelled to pay more in the Citie and County of the Citie of <hi>Dublin</hi> than Ten pounds year<g ref="char:EOLhyphen"/>ly, and in all other Cities, Towns Corporate and other places as well within as without Franchiſes and Liberties in this Kingdom, than the ſum of Five pounds yearly by two equall payments, the firſt thereof to be made before the perſon ſo to be Licenſed take out his Licence, and the ſecond payment to be made at the end of ſix months after the date of ſuch Licence, to the hands of Collectors to be appoynted in every County for that purpoſe by the ſaid Commiſſio<g ref="char:EOLhyphen"/>ners for ſuch County or any three or more of them.</p>
+            <p>
+               <hi>AND whereas in purſuance of the ſaid Act, We the Lord Lieutenant and Council have No<g ref="char:EOLhyphen"/>minated Sir <hi>Richard Geth<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi> Knight, Sir <hi>Richard Kyrle</hi> Knight, <hi>Joſeph Dean, John Stepney,</hi> and <hi>Denny Muſchamp</hi> Eſquiers to be added to ſuch of the Juſtices of the Peace of each County in this Kingdom as we ſhall hereafter Nominate to be Commiſſioners in every County in this Kingdom for Executing and performing all and every the Matters and Powers by the ſaid Act committed to the care of ſuch Commiſſioners; we therefore do by this our Proclamation, Declare and publiſh the ſame, whe<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eof all perſons wh<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m it doth concern, are hereby required to take notice, and to conform themſelve as well to ſuch His Majeſtie Commiſſion as to the aforeſaid Act, whereof they may not faile.</hi>
+            </p>
+            <closer>
+               <dateline>Given at <hi>Kilkenny</hi> 
+                  <date>the 17th day of <hi>September,</hi> 1666.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Meath.</item>
+                     <item>Dungannon.</item>
+                     <item>Fran. Aungier.</item>
+                     <item>Kingſton.</item>
+                     <item>Jo. Byſſe.</item>
+                     <item>Paul Davys.</item>
+                     <item>Art. Forbeſs.</item>
+                     <item>Rob. Meredith.</item>
+                     <item>Theo. Jones.</item>
+                  </list>
+               </signed>
+               <lb/>
+GOD Save the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>John Crook,</hi> Printer to the Kings Moſt Excellent Majeſtie, and are to be ſold by <hi>Samuel Dancer</hi> in Caſtle-ſtreet, 1666.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
